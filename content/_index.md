@@ -8,8 +8,10 @@ Welcome to Wildemount.
 
 <Theme song!>
 
-[Player Characters](characters/Player%20Characters.md)
+[Session Notes](misc/Session%20Notes.md)
 
-[The Clovis Republic](locations/The%20Clovis%20Republic.md)
+[Inventory](misc/Inventory.md)
 
-[Ship to Wreck](notes/Ship%20to%20Wreck.md)
+[Characters](misc/Characters.md)
+
+[Locations](misc/Locations.md)
