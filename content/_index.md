@@ -8,6 +8,8 @@ Welcome to Wildemount.
 
 <Theme song!>
 
-[Zaira](characters/Zaira.md)
-[Nicodranas](locations/Nicodranas.md)
-[Prologue](notes/Prologue.md)
+[Player Characters](characters/Player%20Characters.md)
+
+[The Clovis Republic](locations/The%20Clovis%20Republic.md)
+
+[Ship to Wreck](notes/Ship%20to%20Wreck.md)
