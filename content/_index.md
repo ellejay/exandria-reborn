@@ -7,3 +7,7 @@ Wildemount has changed. It's been thirty years since Chione's Folly. The Empire 
 Welcome to Wildemount.
 
 <Theme song!>
+
+[Zaira](characters/Zaira.md)
+[Nicodranas](locations/Nicodranas.md)
+[Prologue](notes/Prologue.md)
