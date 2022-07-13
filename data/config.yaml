@@ -1,14 +1,14 @@
 name: Laura
 enableToc: true
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/ellejay/exandria-reborn/tree/hugo/content
 description:

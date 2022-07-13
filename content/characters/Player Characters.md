@@ -1,8 +1,7 @@
 ---
 title: "Player Characters"
+enableToc: true
 ---
-
-# Player Characters
 
 ## Marek Mountebank
 The red skinned pirate tiefling
