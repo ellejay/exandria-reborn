@@ -3,10 +3,14 @@ title: "Player Characters"
 enableToc: true
 ---
 
+## Jianu
+![jianu](characters/images/jianu.png)
+
+## Mirko Móré
+![mirko](characters/images/mirko.png)
+
 ## Marek Mountebank
-The red skinned pirate tiefling
 ![marek](characters/images/marek.jpg)
 
 ## Zaira
-The yuan-ti with a bounty on her head
-![zaira](characters/images/zaira.jpg)
+![zaira](characters/images/zaira.png)
