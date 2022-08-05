@@ -12,5 +12,8 @@ enableToc: true
 ## Marek Mountebank
 ![marek](characters/images/marek.jpg)
 
+## Oryctolo "Ory" Bracchi
+![ory](characters/images/ory.png)
+
 ## Zaira
 ![zaira](characters/images/zaira.png)

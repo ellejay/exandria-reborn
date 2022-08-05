@@ -3,19 +3,21 @@ title: "Inventory"
 ---
 
 ## Party Funds
-**41** gp
+**17** gp
 
-**127** sp
+**169** sp
 
-**37** cp
+**50** cp
 
 ## Items Found
 30gp of jewellery
 
-A dagger
++1 Dagger (Mirko)
 
-A bag of caltrops
+Bag of Caltrops
 
-A trident
+A Trident
 
-A spear 
+A Spear 
+
+2 Longswords, 2 Shortswords, 2 Daggers, Breastplate (Ory), 2 Barrels of Water (Fresh/Salt), 2 Shields (1 Marek), 3 Spears
