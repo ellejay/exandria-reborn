@@ -15,3 +15,5 @@ description:
   Note wiki and compendium for Friday night D&D
 page_title:
   "Exandria Reborn"
+favicon:
+  - { rel: "shortcut icon", href: "static/exr_icon.png", type: "image/png" }
