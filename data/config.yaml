@@ -16,4 +16,4 @@ description:
 page_title:
   "Exandria Reborn"
 favicon:
-  - { rel: "shortcut icon", href: "static/exr_icon.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "exr_icon.png", type: "image/png" }
