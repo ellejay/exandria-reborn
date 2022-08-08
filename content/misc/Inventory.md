@@ -7,7 +7,7 @@ title: "Inventory"
 
 **169** sp
 
-**50** cp
+**67** cp
 
 ## Items Found
 30gp of jewellery
