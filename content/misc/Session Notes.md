@@ -9,3 +9,4 @@ Session # | Notes | Date
 #1 | [Shark Week](notes/Shark%20Week.md) | 22nd July 2022
 #2 | [Hearthstar Peaks](notes/Hearthstar%20Peaks.md) | 5th August 2022
 #3 | [Wisps & Wildlings](notes/Wisps%20&%20Wildlings.md) | 8th August 2022
+#4 | [Quantum Spiders](notes/Quantum%20Spiders.md) | 19th August 2022
