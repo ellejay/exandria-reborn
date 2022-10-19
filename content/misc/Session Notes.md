@@ -11,3 +11,7 @@ Session # | Notes | Date
 #3 | [Wisps & Wildlings](notes/Wisps%20&%20Wildlings.md) | 8th August 2022
 #4 | [Quantum Spiders](notes/Quantum%20Spiders.md) | 19th August 2022
 #5 | [Godborn, Abomination, Soilborn](notes/Godborn,%20Abomination,%20Soilborn.md) | 27th August 2022
+#6 | [No Goodbyes](notes/No%20Goodbyes.md) | 9th September 2022
+#7 | [Another Place](notes/Another%20Place.md) | 30th September 2022  
+#8 | [Bacon and Boomerangs](notes/Bacon%20and%20Boomerangs.md) | 7th October 2022
+#9 | [Lark's Call](notes/Lark's%20Call.md) | 14th October 2022
