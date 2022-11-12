@@ -15,3 +15,6 @@ Session # | Notes | Date
 #7 | [Another Place](notes/Another%20Place.md) | 30th September 2022  
 #8 | [Bacon and Boomerangs](notes/Bacon%20and%20Boomerangs.md) | 7th October 2022
 #9 | [Lark's Call](notes/Lark's%20Call.md) | 14th October 2022
+#10 | [The Decisive One](notes/The%20Decisive%20One.md) | 21st October 2022
+#11 | [Act the Part](notes/Act%20the%20Part.md) | 28th October 2022
+#12 | [Breakfast and Bookshelves](notes/Breakfast%20and%20Bookshelves.md) | 11th November 2022
