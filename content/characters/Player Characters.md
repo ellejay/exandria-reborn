@@ -12,6 +12,9 @@ enableToc: true
 ## Marek Mountebank
 ![marek](characters/images/marek.jpg)
 
+## Niska Lark
+![niska](characters/images/niska.png)
+
 ## Oryctolo "Ory" Bracchi
 ![ory](characters/images/ory.png)
 
